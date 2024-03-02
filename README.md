@@ -1,1 +1,1 @@
-was experimenting with oops system design concepts
+creating a clone of bookMyShow, project is incomplete.
